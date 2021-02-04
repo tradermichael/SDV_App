@@ -5,7 +5,7 @@ const webpack = require("webpack");
 const devMode = process.env.NODE_ENV !== "production";
 
 module.exports = {
-  entry: ["babel-polyfill", "./src/index"],
+  entry: ["babel-polyfill", "./src/App"],
   resolve: {
     modules: [path.resolve(__dirname, "../src"), "node_modules"]
   },

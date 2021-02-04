@@ -1,0 +1,380 @@
+[
+ {
+   "id": 1,
+   "name": "Blue_Jazz",
+   "price": 30,
+   "profit": 50,
+   "Regrow": "No",
+   "image": "https://stardewcommunitywiki.com/mediawiki/images/9/95/Jazz_Seeds.png",
+   "category": "Spring"
+ },
+ {
+   "id": 2,
+   "name": "Cauliflower",
+   "price": 80,
+   "profit": 175,
+   "Regrow": "No",
+   "image": "https://stardewcommunitywiki.com/mediawiki/images/b/bb/Cauliflower_Seeds.png",
+   "category": "Spring"
+ },
+ {
+   "id": 3,
+   "name": "Coffee_Bean",
+   "price": 2500,
+   "profit": 15,
+   "Regrow": "Yes",
+   "image": "",
+   "category": "Spring"
+ },
+ {
+   "id": 4,
+   "name": "Garlic",
+   "price": 40,
+   "profit": 60,
+   "Regrow": "No",
+   "image": "",
+   "category": "Spring"
+ },
+ {
+   "id": 5,
+   "name": "Green_Bean",
+   "price": 60,
+   "profit": 40,
+   "Regrow": "Yes",
+   "image": "",
+   "category": "Spring"
+ },
+ {
+   "id": 6,
+   "name": "Kale",
+   "price": 70,
+   "profit": 110,
+   "Regrow": "No",
+   "image": "",
+   "category": "Spring"
+ },
+ {
+   "id": 7,
+   "name": "Parsnip",
+   "price": 20,
+   "profit": 35,
+   "Regrow": "No",
+   "image": "",
+   "category": "Spring"
+ },
+ {
+   "id": 8,
+   "name": "Potato",
+   "price": 50,
+   "profit": 80,
+   "Regrow": "No",
+   "image": "",
+   "category": "Spring"
+ },
+ {
+   "id": 9,
+   "name": "Rhubarb",
+   "price": 100,
+   "profit": 220,
+   "Regrow": "No",
+   "image": "",
+   "category": "Spring"
+ },
+ {
+   "id": 10,
+   "name": "Strawberry",
+   "price": 100,
+   "profit": 120,
+   "Regrow": "Yes",
+   "image": "",
+   "category": "Spring"
+ },
+ {
+   "id": 11,
+   "name": "Tulip",
+   "price": 20,
+   "profit": 30,
+   "Regrow": "No",
+   "image": "",
+   "category": "Spring"
+ },
+ {
+   "id": 12,
+   "name": "Unmilled_Rice",
+   "price": 40,
+   "profit": 30,
+   "Regrow": "No",
+   "image": "",
+   "category": "Spring"
+ },
+ {
+   "id": 13,
+   "name": "Blueberry",
+   "price": 80,
+   "profit": 50,
+   "Regrow": "Yes",
+   "image": "",
+   "category": "Summer"
+ },
+ {
+   "id": 14,
+   "name": "Corn",
+   "price": 150,
+   "profit": 50,
+   "Regrow": "Yes",
+   "image": "",
+   "category": "Summer"
+ },
+ {
+   "id": 15,
+   "name": "Hops",
+   "price": 60,
+   "profit": 25,
+   "Regrow": "Yes",
+   "image": "",
+   "category": "Summer"
+ },
+ {
+   "id": 16,
+   "name": "Hot_Pepper",
+   "price": 40,
+   "profit": 40,
+   "Regrow": "Yes",
+   "image": "",
+   "category": "Summer"
+ },
+ {
+   "id": 17,
+   "name": "Melon",
+   "price": 80,
+   "profit": 250,
+   "Regrow": "No",
+   "image": "",
+   "category": "Summer"
+ },
+ {
+   "id": 18,
+   "name": "Poppy",
+   "price": 100,
+   "profit": 140,
+   "Regrow": "No",
+   "image": "",
+   "category": "Summer"
+ },
+ {
+   "id": 19,
+   "name": "Radish",
+   "price": 40,
+   "profit": 90,
+   "Regrow": "No",
+   "image": "",
+   "category": "Summer"
+ },
+ {
+   "id": 20,
+   "name": "Red_Cabbage",
+   "price": 100,
+   "profit": 260,
+   "Regrow": "No",
+   "image": "",
+   "category": "Summer"
+ },
+ {
+   "id": 21,
+   "name": "Starfruit",
+   "price": 400,
+   "profit": 750,
+   "Regrow": "No",
+   "image": "",
+   "category": "Summer"
+ },
+ {
+   "id": 22,
+   "name": "Summer_Spangle",
+   "price": 50,
+   "profit": 90,
+   "Regrow": "No",
+   "image": "",
+   "category": "Summer"
+ },
+ {
+   "id": 23,
+   "name": "Sunflower",
+   "price": 200,
+   "profit": 80,
+   "Regrow": "Yes",
+   "image": "",
+   "category": "Summer"
+ },
+ {
+   "id": 24,
+   "name": "Tomato",
+   "price": 50,
+   "profit": 60,
+   "Regrow": "Yes",
+   "image": "",
+   "category": "Summer"
+ },
+ {
+   "id": 25,
+   "name": "Wheat",
+   "price": 10,
+   "profit": 25,
+   "Regrow": "Yes",
+   "image": "",
+   "category": "Summer"
+ },
+ {
+   "id": 26,
+   "name": "Amaranth",
+   "price": 70,
+   "profit": 150,
+   "Regrow": "No",
+   "image": "",
+   "category": "Fall"
+ },
+ {
+   "id": 27,
+   "name": "Artichoke",
+   "price": 30,
+   "profit": 160,
+   "Regrow": "No",
+   "image": "",
+   "category": "Fall"
+ },
+ {
+   "id": 28,
+   "name": "Beet",
+   "price": 20,
+   "profit": 100,
+   "Regrow": "No",
+   "image": "",
+   "category": "Fall"
+ },
+ {
+   "id": 29,
+   "name": "Bok_Choy",
+   "price": 50,
+   "profit": 80,
+   "Regrow": "No",
+   "image": "",
+   "category": "Fall"
+ },
+ {
+   "id": 30,
+   "name": "Cranberries",
+   "price": 240,
+   "profit": 75,
+   "Regrow": "Yes",
+   "image": "",
+   "category": "Fall"
+ },
+ {
+   "id": 31,
+   "name": "Eggplant",
+   "price": 20,
+   "profit": 60,
+   "Regrow": "Yes",
+   "image": "",
+   "category": "Fall"
+ },
+ {
+   "id": 32,
+   "name": "Fairy_Rose",
+   "price": 200,
+   "profit": 290,
+   "Regrow": "No",
+   "image": "",
+   "category": "Fall"
+ },
+ {
+   "id": 33,
+   "name": "Grape",
+   "price": 60,
+   "profit": 80,
+   "Regrow": "Yes",
+   "image": "",
+   "category": "Fall"
+ },
+ {
+   "id": 34,
+   "name": "Pumpkin",
+   "price": 100,
+   "profit": 320,
+   "Regrow": "No",
+   "image": "",
+   "category": "Fall"
+ },
+ {
+   "id": 35,
+   "name": "Yam",
+   "price": 60,
+   "profit": 160,
+   "Regrow": "No",
+   "image": "",
+   "category": "Fall"
+ },
+ {
+   "id": 36,
+   "name": "Ancient_Fruit",
+   "price": 500,
+   "profit": 550,
+   "Regrow": "Yes",
+   "image": "",
+   "category": "Special"
+ },
+ {
+   "id": 37,
+   "name": "Cactus_Fruit",
+   "price": 150,
+   "profit": 75,
+   "Regrow": "Yes",
+   "image": "",
+   "category": "Special"
+ },
+ {
+   "id": 38,
+   "name": "Mixed_Seeds",
+   "price": 0,
+   "profit": 0,
+   "Regrow": "No",
+   "image": "",
+   "category": "Special"
+ },
+ {
+   "id": 39,
+   "name": "Pineapple",
+   "price": 0,
+   "profit": 300,
+   "Regrow": "No",
+   "image": "",
+   "category": "Special"
+ },
+ {
+   "id": 40,
+   "name": "Sweet_Gem_Berry",
+   "price": 1000,
+   "profit": 3000,
+   "Regrow": "No",
+   "image": "",
+   "category": "Special"
+ },
+ {
+   "id": 41,
+   "name": "Tea_Leaves",
+   "price": 0,
+   "profit": 50,
+   "Regrow": "No",
+   "image": "",
+   "category": "Special"
+ },
+ {
+   "id": 42,
+   "name": "Wild_Seeds",
+   "price": 0,
+   "profit": 0,
+   "Regrow": "No",
+   "image": "",
+   "category": "Special"
+ }
+]
