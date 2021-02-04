@@ -171,6 +171,7 @@ class App extends Component {
         <Header
           cartBounce={this.state.cartBounce}
           total={this.state.totalAmount}
+		  totalBaseProfit={this.state.totalBaseProfit}
           totalItems={this.state.totalItems}
           cartItems={this.state.cart}
           removeProduct={this.handleRemoveProduct}
