@@ -23,7 +23,7 @@
    "price": 2500,
    "profit": 15,
    "Regrow": "Yes",
-   "image": "",
+   "image": "https://stardewcommunitywiki.com/mediawiki/images/3/33/Coffee_Bean.png",
    "category": "Spring"
  },
  {
@@ -32,7 +32,7 @@
    "price": 40,
    "profit": 60,
    "Regrow": "No",
-   "image": "",
+   "image": "https://stardewcommunitywiki.com/mediawiki/images/d/d5/Garlic_Seeds.png",
    "category": "Spring"
  },
  {
@@ -41,7 +41,7 @@
    "price": 60,
    "profit": 40,
    "Regrow": "Yes",
-   "image": "",
+   "image": "https://stardewcommunitywiki.com/mediawiki/images/5/5c/Green_Bean.png",
    "category": "Spring"
  },
  {
@@ -50,7 +50,7 @@
    "price": 70,
    "profit": 110,
    "Regrow": "No",
-   "image": "",
+   "image": "https://stardewcommunitywiki.com/mediawiki/images/d/d1/Kale.png",
    "category": "Spring"
  },
  {
@@ -59,7 +59,7 @@
    "price": 20,
    "profit": 35,
    "Regrow": "No",
-   "image": "",
+   "image": "https://stardewcommunitywiki.com/mediawiki/images/d/db/Parsnip.png",
    "category": "Spring"
  },
  {
@@ -68,7 +68,7 @@
    "price": 50,
    "profit": 80,
    "Regrow": "No",
-   "image": "",
+   "image": "https://stardewcommunitywiki.com/mediawiki/images/c/c2/Potato.png",
    "category": "Spring"
  },
  {
@@ -77,7 +77,7 @@
    "price": 100,
    "profit": 220,
    "Regrow": "No",
-   "image": "",
+   "image": "https://stardewcommunitywiki.com/mediawiki/images/6/6e/Rhubarb.png",
    "category": "Spring"
  },
  {
@@ -86,7 +86,7 @@
    "price": 100,
    "profit": 120,
    "Regrow": "Yes",
-   "image": "",
+   "image": "https://stardewcommunitywiki.com/mediawiki/images/f/f2/Strawberry_Seeds.png",
    "category": "Spring"
  },
  {
@@ -95,7 +95,7 @@
    "price": 20,
    "profit": 30,
    "Regrow": "No",
-   "image": "",
+   "image": "https://stardewcommunitywiki.com/mediawiki/images/c/cf/Tulip.png",
    "category": "Spring"
  },
  {
@@ -104,7 +104,7 @@
    "price": 40,
    "profit": 30,
    "Regrow": "No",
-   "image": "",
+   "image": "https://stardewcommunitywiki.com/mediawiki/images/f/fe/Unmilled_Rice.png",
    "category": "Spring"
  },
  {
